@@ -20,7 +20,7 @@ $ conda install cookiecutter
 ### To start a new project, run:
 ------------
 
-    cookiecutter 
+    cookiecutter https://github.com/prabhuSub/cookiecutter-squark.git
 
 
 ### The resulting directory structure
