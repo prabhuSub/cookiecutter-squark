@@ -1,5 +1,6 @@
 {{cookiecutter.project_name}}
 ==============================
+### Owner - {{cookiecutter.author_name}}
 
 {{cookiecutter.description}}
 
